@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pramodkarki12.github.io/csb-vz84yy/static/css/main.dbda2795.chunk.css",
+    "main.js": "https://pramodkarki12.github.io/csb-vz84yy/static/js/main.123039ae.chunk.js",
+    "main.js.map": "https://pramodkarki12.github.io/csb-vz84yy/static/js/main.123039ae.chunk.js.map",
+    "runtime-main.js": "https://pramodkarki12.github.io/csb-vz84yy/static/js/runtime-main.0ba98bbb.js",
+    "runtime-main.js.map": "https://pramodkarki12.github.io/csb-vz84yy/static/js/runtime-main.0ba98bbb.js.map",
+    "static/js/2.f1ef1bf4.chunk.js": "https://pramodkarki12.github.io/csb-vz84yy/static/js/2.f1ef1bf4.chunk.js",
+    "static/js/2.f1ef1bf4.chunk.js.map": "https://pramodkarki12.github.io/csb-vz84yy/static/js/2.f1ef1bf4.chunk.js.map",
+    "index.html": "https://pramodkarki12.github.io/csb-vz84yy/index.html",
+    "static/css/main.dbda2795.chunk.css.map": "https://pramodkarki12.github.io/csb-vz84yy/static/css/main.dbda2795.chunk.css.map",
+    "static/js/2.f1ef1bf4.chunk.js.LICENSE.txt": "https://pramodkarki12.github.io/csb-vz84yy/static/js/2.f1ef1bf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba98bbb.js",
+    "static/js/2.f1ef1bf4.chunk.js",
+    "static/css/main.dbda2795.chunk.css",
+    "static/js/main.123039ae.chunk.js"
+  ]
+}
